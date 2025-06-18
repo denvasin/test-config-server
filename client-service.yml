@@ -1,0 +1,4 @@
+app:
+  patient-exams:
+    default_period_in_days: 7
+feature-enabled: true
