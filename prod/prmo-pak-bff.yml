@@ -1,4 +1,4 @@
 app:
   version: PROD_from_prmo-pak-bff1
   test:
-    test: prod2
+    test: prod3
