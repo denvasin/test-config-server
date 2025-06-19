@@ -1,2 +1,4 @@
 app:
   version: PROD1
+  test:
+    test: global-test
